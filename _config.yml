@@ -85,9 +85,9 @@ author:
   bio              : "Researcher at IU. I model and simulate social systems, and study information warfare."
   location         : "Bloomington, IN"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=uiUoGrgAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=uiUoGrgAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
