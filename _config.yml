@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Bollenbacher"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "John Bollenbacher"
 description              : &description "personal description"
