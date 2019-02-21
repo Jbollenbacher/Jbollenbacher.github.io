@@ -24,7 +24,7 @@ Work experience
 
 * 2016-2017: Assistant Instructor
   * Indiana University
-  * Duties included: Teaching and grading for a [course](https://informatics.indiana.edu/courses/class/iub-summer-2018-info-i201) on Discrete Math 
+  * Duties included: Teaching and grading for a [course](https://informatics.indiana.edu/courses/class/iub-summer-2018-info-i201) on discrete math 
   * Supervisor: Various
   
 * Summer 2014, Summer 2015: Radiological Surveyer and CAD Technician
