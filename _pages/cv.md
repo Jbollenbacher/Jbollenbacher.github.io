@@ -28,7 +28,7 @@ Work experience
   
 * Summer 2014, Summer 2015: Radiological Surveyer and CAD Technician
   * USA Environment LLC
-  * Duties included: Measuring radiological contamination of land and equipment. Making maps of sites we surveyed. 
+  * Duties included: Assessing land and equipment for possible radiological contamination. Making maps of sites we surveyed. 
   
 Skills
 ======
