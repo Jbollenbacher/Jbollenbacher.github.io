@@ -19,7 +19,7 @@ Work experience
 ======
 * 2017-2019: Research Assistant
   * Indiana University
-  * Duties included: Modeling and simulating online social systems to forecast: user actions, spread of information, market manipulation
+  * Duties included: Modeling and simulating online social systems to forecast user actions, spread of information, and market manipulation
   * Supervisor: Fil Menczer
 
 * 2016-2017: Assistant Instructor
