@@ -19,12 +19,12 @@ Work experience
 ======
 * 2017-2019: Research Assistant
   * Indiana University
-  * Duties included: Modeling and simulation online social systems to forecast changes in them. 
+  * Duties included: Modeling and simulating online social systems to forecast changes in them. 
   * Supervisor: Fil Menczer
 
 * 2016-2017: Assistant Instructor
   * Indiana University
-  * Duties included: Teaching, grading
+  * Duties included: Teaching and grading for a [course](https://informatics.indiana.edu/courses/class/iub-summer-2018-info-i201) on Discrete Math 
   * Supervisor: Various
   
 * Summer 2014, Summer 2015: Radiological Surveyer and CAD Technician
