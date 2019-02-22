@@ -27,7 +27,7 @@ Work experience
   * Duties included: Teaching and grading for a [course on discrete math](https://informatics.indiana.edu/courses/class/iub-summer-2018-info-i201)
   
 * Summer 2014, Summer 2015: Radiological Surveyer and CAD Technician
-  * USA Environment LLC
+  * USA Environment LP
   * Duties included: Assessing land and equipment for possible radiological contamination. Making maps of sites we surveyed. 
   
 Skills
