@@ -33,20 +33,26 @@ Skills
 ======
 * Data Science
   * Python data packages (pandas, scikit-learn, pytorch, scipy stats, mpi4py, etc.)
-  * Deep learning. PyTorch fluency. Audio, statistical data, images. Classification, regression, denoisers.
+  * Deep learning. PyTorch fluency. Audio, statistical data, images. Classification, regression, denoisers, forecast.
+  * Machine learning model selection and model validation. 
+  * Data Visualization, graph visualization
   * High Dimensional Data transformation. Manifold learning, graph embeddings, dimensionality reduction, etc.
   * Bayesian methods. Inference, distribution modeling, MCMC, HMC, etc.
   * Probability bounds analysis. Quantifying prediction error in complex model spaces.
-  * Data Visualization, graph visualization
   * Network Science. community detection, diffusion anaylsis, graph characterization, etc.
-  * HPC for data science and simulation. MPI, Spark. Python, occational C. 
+  * HPC for data science and simulation. MPI, Spark. HPC Python, occational C. 
   * Matlab, Mathematica
   
 * Modeling and Simulation
-  * Agent based modeling, Bayesian modeling, Machine-Learning-based models, physics-based simulations
   * Focus especially on [complex systems](https://cssociety.org/about-us/what-are-cs) and network systems, e.g. social systems, ecological systems, economic networks.
+  * Agent based modeling, Bayesian modeling, Machine-Learning-based models, physics-based simulations
+  * Large scale simulation and HPC.
+  * Model validation.
   
-* Technical writing. Grants, public-facing reports, etc.
+* Communications
+  * Technical writing. Grants, public-facing reports, etc.
+  * Interfacing with clients/funding agencies.
+  * Oral resentations, demos, etc.
   
 
 Publications
