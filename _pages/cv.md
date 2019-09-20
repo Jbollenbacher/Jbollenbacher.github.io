@@ -52,7 +52,7 @@ Skills
 * Communications
   * Technical writing. Grants, public-facing reports, etc.
   * Interfacing with clients/funding agencies.
-  * Oral resentations, demos, etc.
+  * Presentations, demos, etc.
   
 
 Publications
