@@ -17,22 +17,37 @@ Education
 
 Work experience
 ======
+* 2019-present, 2016-2017: Assistant Instructor
+  * Indiana University. See Teaching Experience
+  
 * 2017-2019: Research Assistant
   * Indiana University
   * Duties included: Modeling and simulating online social systems to forecast user activity, spread of information, and market manipulation
   * Supervisor: [Fil Menczer](http://cnets.indiana.edu/fil/)
-
-* 2016-2017: Assistant Instructor
-  * Indiana University
-  * Duties included: Teaching and grading for a [course on discrete math](https://soic.iupui.edu/courses/info-i201/)
   
 * Summer 2014, Summer 2015: Radiological Surveyer and CAD Technician
   * USA Environment LP
-  * Duties included: Assessing land and equipment for possible radiological contamination. Making maps of sites we surveyed. 
+  * Duties included: Assessing land for possible radiological contamination. Making and maintaining hardware packages to perform these tasks.  Making maps of surveyed land and 3D models of future excavation plans. 
   
 Skills
 ======
-* TBA: site under construciton
+* Data Science
+  * Python data and HPC packages (pandas, scikit-learn, pytorch, scipy stats, mpi4py, etc.)
+  * Deep learning. PyTorch fluency. Audio, statistical data, images. Classification, regression, denoisers.
+  * High Dimensional Data transformation. Manifold learning, graph embeddings, dimensionality reduction, etc.
+  * Bayesian methods. Inference, distribution modeling, MCMC, HMC, etc.
+  * Probability bounds analysis. Quantifying prediction error in complex model spaces.
+  * Data Visualization, graph visualization
+  * Network Science. community detection, diffusion anaylsis, graph characterization, etc.
+  
+* Modeling and Simulation
+  * Agent based modeling, Bayesian modeling, Machine-Learning-based models, physics-based simulations
+  * Focus especially on complex systems, e.g. social systems, ecological systems, economic networks
+  
+* Electronics/Hardware
+  * Basic remote server setup/maintenance. Basic SysAdmin stuff. 
+  * PCB design/analysis. Basic PCB repair. 
+  
 
 Publications
 ======
