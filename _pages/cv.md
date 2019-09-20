@@ -32,21 +32,21 @@ Work experience
 Skills
 ======
 * Data Science
-  * Python data and HPC packages (pandas, scikit-learn, pytorch, scipy stats, mpi4py, etc.)
+  * Python data packages (pandas, scikit-learn, pytorch, scipy stats, mpi4py, etc.)
   * Deep learning. PyTorch fluency. Audio, statistical data, images. Classification, regression, denoisers.
   * High Dimensional Data transformation. Manifold learning, graph embeddings, dimensionality reduction, etc.
   * Bayesian methods. Inference, distribution modeling, MCMC, HMC, etc.
   * Probability bounds analysis. Quantifying prediction error in complex model spaces.
   * Data Visualization, graph visualization
   * Network Science. community detection, diffusion anaylsis, graph characterization, etc.
+  * HPC for data science and simulation. MPI, Spark. Python, occational C. 
+  * Matlab, Mathematica
   
 * Modeling and Simulation
   * Agent based modeling, Bayesian modeling, Machine-Learning-based models, physics-based simulations
-  * Focus especially on complex systems, e.g. social systems, ecological systems, economic networks
+  * Focus especially on [complex systems](https://cssociety.org/about-us/what-are-cs) and network systems, e.g. social systems, ecological systems, economic networks.
   
-* Electronics/Hardware
-  * Basic remote server setup/maintenance. Basic SysAdmin stuff. 
-  * PCB design/analysis. Basic PCB repair. 
+* Technical writing. Grants, public-facing reports, etc.
   
 
 Publications
