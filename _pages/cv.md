@@ -24,7 +24,7 @@ Work experience
 
 * 2016-2017: Assistant Instructor
   * Indiana University
-  * Duties included: Teaching and grading for a [course on discrete math](https://informatics.indiana.edu/courses/class/iub-summer-2018-info-i201)
+  * Duties included: Teaching and grading for a [course on discrete math](https://soic.iupui.edu/courses/info-i201/)
   
 * Summer 2014, Summer 2015: Radiological Surveyer and CAD Technician
   * USA Environment LP
@@ -36,9 +36,10 @@ Skills
 
 Publications
 ======
-* TBA: site under construction
+See [Google Scholar page](https://scholar.google.com/citations?user=uiUoGrgAAAAJ)
   
 Teaching
 ======
-* TBA: site under construction
-  
+* Fall 2019: [I-453](https://soic.iupui.edu/courses/info-i453/), an ethics of technology/computing course
+* 2016-2017: [I-201](https://soic.iupui.edu/courses/info-i201/), a discrete math course
+
