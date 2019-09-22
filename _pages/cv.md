@@ -41,7 +41,7 @@ Skills
   * Probability bounds analysis. Quantifying prediction error in complex model spaces.
   * Network Science. community detection, diffusion anaylsis, graph characterization, etc.
   * HPC for data science and simulation. MPI, Spark. HPC Python, occational C. 
-  * Matlab, Mathematica
+  * Matlab, Mathematica, R
   
 * Modeling and Simulation
   * Focus especially on [complex systems](https://cssociety.org/about-us/what-are-cs) and network systems, e.g. social systems, ecological systems, economic networks.
