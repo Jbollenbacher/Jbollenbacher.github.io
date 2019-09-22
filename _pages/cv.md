@@ -37,9 +37,10 @@ Skills
   * Machine learning model selection and model validation. 
   * Data Visualization, graph visualization
   * High Dimensional Data transformation. Manifold learning, graph embeddings, dimensionality reduction, etc.
-  * Bayesian methods. Inference, distribution modeling, MCMC, etc.
-  * Quantifying prediction error in complex model spaces.
   * Network Science. community detection, diffusion anaylsis, graph characterization, etc.
+  * Bayesian methods. Inference, distribution modeling, MCMC, etc.
+  * Optimization with multiple constraints.
+  * Quantifying prediction error in complex model spaces.
   * HPC for data science and simulation. MPI, Spark. HPC Python, occational C. 
   * Matlab, Mathematica, R
   
