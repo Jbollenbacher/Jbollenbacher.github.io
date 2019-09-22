@@ -40,8 +40,8 @@ Skills
   * Optimization with multiple constraints.
   * High dimensional data transforms. Manifold learning, graph embeddings, dimensionality reduction, etc.
   * Network Science. community detection, diffusion anaylsis, graph characterization, etc.
-  * Bayesian methods. bayesian inference, distribution modeling, MCMC methods, etc.
-  * Quantifying prediction error in complex model spaces.
+  * Bayesian methods. distribution modeling, MCMC methods, inference, etc.
+  * Quantifying prediction uncertainty in complex model spaces.
   * HPC for data science and simulation. MPI, Spark. HPC Python, occational C. 
   * Matlab, Mathematica, R
   
