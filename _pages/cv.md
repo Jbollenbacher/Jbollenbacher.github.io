@@ -43,7 +43,7 @@ Skills
   * Data Visualization, graph visualization
   * HPC for data science and simulation. SMP and CSP computing. HPC Python, occational C
   * Matlab, Mathematica, R
-  * SQL and MongoDB
+  * SQL, MongoDB, neo4j
   
 * Modeling and Simulation
   * Focus especially on [complex systems](https://cssociety.org/about-us/what-are-cs) and network systems, e.g. social systems, ecological systems, economic networks.
