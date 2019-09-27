@@ -38,7 +38,7 @@ Skills
   * High dimensional data transforms. Dimensionality reduction and manifold learning, graph embeddings, etc.
   * Network Science. Community detection, network diffusion processes, graph characterization, etc.
   * Model selection and model validation
-  * Uncertainty quantification.
+  * Uncertainty quantification
   * Optimization with multiple constraints
   * Data Visualization, graph visualization
   * HPC for data science and simulation. SMP and CSP computing. HPC Python, occational C
