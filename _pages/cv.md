@@ -33,13 +33,15 @@ Skills
 ======
 * Data Science and Machine Learning
   * Python fluency. pandas, scikit-learn, pytorch, scipy, mpi4py, etc.
-  * Classical machine learning. Clustering, classification, regression, collaborative filtering, anomaly detection, denoisers, feature engineering.
+  * Classical machine learning. Clustering, classification, regression, collaborative filtering, anomaly detection, feature engineering.
   * Deep learning. PyTorch. Structured data, audio, images. Classification, regression, etc.
   * High dimensional data methods. Dimensionality reduction, manifold learning, graph embeddings, etc.
   * Network science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
+  * Signal processing. Denoising, source separation.
+  * Time Series. ARIMAX, VAR, and related models.
+  * Optimization with multiple constraints
   * Model selection and model validation
   * Uncertainty quantification
-  * Optimization with multiple constraints
   * Data visualization, graph visualization
   * HPC for data science and simulation. SMP and CSP computing. HPC Python, occational C
   * Matlab, Mathematica, R
