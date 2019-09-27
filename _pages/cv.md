@@ -31,7 +31,7 @@ Work experience
   
 Skills
 ======
-* Data Science
+* Data Science and Machine Learning
   * Python fluency. pandas, scikit-learn, pytorch, scipy, mpi4py, etc.
   * Deep learning. PyTorch fluency. Structured data, audio, images. Classification, regression, denoisers.
   * Classical machine learning. Clusting, classification, regression. SVM, Random Forest, etc.
