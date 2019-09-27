@@ -47,8 +47,8 @@ Skills
 * Modeling and Simulation
   * Focus especially on [complex systems](https://cssociety.org/about-us/what-are-cs) and network systems, e.g. social systems, ecological systems, economic networks.
   * Agent based modeling, Bayesian modeling, Machine-Learning-based models, physics-based simulations
-  * Large scale simulation and HPC.
-  * Model validation.
+  * Large scale simulation and HPC
+  * Model validation
   
 * Communications
   * Technical writing. Academic publicaiton, grants, public-facing reports, etc.
