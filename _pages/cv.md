@@ -51,8 +51,8 @@ Skills
   * Model validation.
   
 * Communications
-  * Technical writing. Grants, public-facing reports, etc.
-  * Interfacing with clients/funding agencies.
+  * Technical writing. Academic publicaiton, grants, public-facing reports, etc.
+  * Interfacing with clients/funding agencies
   * Presentations, demos, etc.
   
 
