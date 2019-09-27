@@ -33,7 +33,7 @@ Skills
 ======
 * Data Science
   * Python fluency (pandas, scikit-learn, pytorch, scipy, mpi4py, etc.)
-  * Deep learning. PyTorch fluency. Statistical data, audio, images. Classification, regression, denoisers.
+  * Deep learning. PyTorch fluency. Structured data, audio, images. Classification, regression, denoisers.
   * Classical machine learning. Clusting, classification, regression, anomaly detection. SVM, Random Forest, etc.
   * Model selection and model validation. 
   * Data Visualization, graph visualization
