@@ -36,11 +36,11 @@ Skills
   * Deep learning. PyTorch fluency. Structured data, audio, images. Classification, regression, denoisers.
   * Classical machine learning. Clustering, classification, regression. SVM, Random Forest, etc.
   * High dimensional data transforms. Dimensionality reduction and manifold learning, graph embeddings, etc.
+  * Network Science. Community detection, network diffusion processes, graph characterization, etc.
   * Model selection and model validation
-  * Data Visualization, graph visualization
+  * Uncertainty quantification.
   * Optimization with multiple constraints
-  * Network Science. Community detection, diffusion anaylsis, graph characterization, etc.
-  * Quantifying uncertainty of predictions in complex model spaces
+  * Data Visualization, graph visualization
   * HPC for data science and simulation. SMP and CSP computing. HPC Python, occational C
   * Matlab, Mathematica, R
   
