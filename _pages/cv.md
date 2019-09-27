@@ -32,16 +32,16 @@ Work experience
 Skills
 ======
 * Data Science
-  * Python fluency (pandas, scikit-learn, pytorch, scipy, mpi4py, etc.)
+  * Python fluency. pandas, scikit-learn, pytorch, scipy, mpi4py, etc.
   * Deep learning. PyTorch fluency. Structured data, audio, images. Classification, regression, denoisers.
-  * Classical machine learning. Clusting, classification, regression, anomaly detection. SVM, Random Forest, etc.
-  * Model selection and model validation. 
+  * Classical machine learning. Clusting, classification, regression. SVM, Random Forest, etc.
+  * High dimensional data analysis + transforms. Dimensionality reduction and manifold learning, graph embeddings, etc.
+  * Model selection and model validation
   * Data Visualization, graph visualization
-  * Optimization with multiple constraints.
-  * High dimensional data transforms. Manifold learning, graph embeddings, dimensionality reduction, etc.
-  * Network Science. community detection, diffusion anaylsis, graph characterization, etc.
-  * Quantifying prediction uncertainty in complex model spaces.
-  * HPC for data science and simulation. SMP and CSP computing. HPC Python, occational C.
+  * Optimization with multiple constraints
+  * Network Science. Community detection, diffusion anaylsis, graph characterization, etc.
+  * Quantifying uncertainty of predictions in complex model spaces
+  * HPC for data science and simulation. SMP and CSP computing. HPC Python, occational C
   * Matlab, Mathematica, R
   
 * Modeling and Simulation
