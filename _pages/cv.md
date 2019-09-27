@@ -33,9 +33,9 @@ Skills
 ======
 * Data Science and Machine Learning
   * Python fluency. pandas, scikit-learn, pytorch, scipy, mpi4py, etc.
-  * Deep learning. PyTorch fluency. Structured data, audio, images. Classification, regression, etc.
   * Classical machine learning. Clustering, classification, regression, collaborative filtering, anomaly detection, denoisers, feature engineering.
-  * High dimensional data transforms. Dimensionality reduction and manifold learning, graph embeddings, etc.
+  * High dimensional data. Dimensionality reduction and manifold learning, graph embeddings, etc.
+  * Deep learning. PyTorch fluency. Structured data, audio, images. Classification, regression, etc.
   * Network Science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
   * Model selection and model validation
   * Uncertainty quantification
