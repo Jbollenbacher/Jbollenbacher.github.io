@@ -38,7 +38,7 @@ Skills
   * High dimensional data methods. Dimensionality reduction, manifold learning, graph embeddings, etc.
   * Network science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
   * Signal processing. Denoising, source separation.
-  * Time Series. ARIMAX, VAR, and related models.
+  * Time Series. ARIMAX, VAR, and related models. Machine learning based forecasts, including deep learning. 
   * Optimization with multiple constraints
   * Model selection and model validation
   * Uncertainty quantification
