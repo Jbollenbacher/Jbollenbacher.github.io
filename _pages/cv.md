@@ -38,7 +38,7 @@ Skills
   * High dimensional data methods. Dimensionality reduction, manifold learning, graph embeddings, etc.
   * Network science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
   * Signal processing. Denoising, source separation.
-  * Time Series. ARIMAX, VAR, and related models. Machine learning based forecasts, including deep learning. 
+  * Time Series. ARMAX, VAR, and related models. Machine learning based forecasts, including deep learning. 
   * Optimization with multiple constraints
   * Model selection and model validation
   * Uncertainty quantification
@@ -49,7 +49,7 @@ Skills
   
 * Modeling and Simulation
   * Focus especially on [complex systems](https://cssociety.org/about-us/what-are-cs) and network systems, e.g. social systems, ecological systems, economic networks.
-  * Agent based modeling, Bayesian modeling, Machine-Learning-based models, physics-based simulations
+  * Agent based models, Bayesian models, Machine learning based models, physics-based models
   * Large scale simulation and HPC
   * Model validation
   
