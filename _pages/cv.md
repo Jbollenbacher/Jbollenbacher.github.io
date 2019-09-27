@@ -36,7 +36,7 @@ Skills
   * Deep learning. PyTorch fluency. Structured data, audio, images. Classification, regression, denoisers.
   * Classical machine learning. Clustering, classification, regression, anomaly detection, feature engineering.
   * High dimensional data transforms. Dimensionality reduction and manifold learning, graph embeddings, etc.
-  * Network Science. Community detection, network diffusion processes, graph characterization, etc.
+  * Network Science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
   * Model selection and model validation
   * Uncertainty quantification
   * Optimization with multiple constraints
