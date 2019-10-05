@@ -42,7 +42,7 @@ Skills
   * Optimization with multiple constraints
   * Model selection and model validation
   * Uncertainty quantification
-  * Data visualization, graph visualization
+  * Data visualization. Atlair, Seaborn, matplotlib.
   * HPC for data science and simulation. SMP and CSP computing. HPC Python, occational C
   * Matlab, Mathematica, R
   * SQL, MongoDB, neo4j
