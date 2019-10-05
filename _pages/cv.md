@@ -41,7 +41,6 @@ Skills
   * Time Series. ARMAX, VAR, and related models. Machine learning based forecasts, including deep learning. 
   * Optimization with multiple constraints
   * Model selection and model validation
-  * Uncertainty quantification
   * Data visualization. Atlair, Seaborn, matplotlib.
   * HPC for data science and simulation. SMP and CSP computing. HPC Python, occational C
   * Matlab, Mathematica, R
