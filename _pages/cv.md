@@ -39,8 +39,8 @@ Skills
   * High dimensional data methods. Dimensionality reduction, manifold learning, graph embeddings, etc.
   * Network science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
   * Signal processing. Denoising, source separation.
-  * Time Series. ARMAX, VAR, and related models. Machine learning based forecasts, including deep learning. 
-  * Model selection and model validation. Feature abalation studies.
+  * Time Series. ARMAX, VAR, and related models. 
+  * Model selection and model validation, Feature abalation studies.
   * Data visualization. Seaborn, matplotlib, Atlair.
   * High Performance Computing (HPC) for data science and simulation. MPI, Dask.
   * Matlab, Mathematica, R. Non-expert, but some experience.
