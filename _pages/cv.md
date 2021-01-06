@@ -29,6 +29,19 @@ Work experience
   * USA Environment LP
   * Duties included: Assessing land for possible radiological contamination. Making and maintaining hardware packages to perform these tasks.  Making maps of surveyed land and 3D models of future excavation plans. 
   
+Ongoing Research
+======
+* Measuring impact of twitter information campaigns
+  * Measuring similarity between tweets using deep learning NLP including transformers
+  * Measuring how users' content preferences and content creation change after exposure to information campaign content
+* COVID vaccine hesitancy
+  * Collecting social media data on covid vaccine hesitancy
+  * Intend to analyze its correlation with vaccine uptake data, when such data becomes available
+* Measuring cultural balkanization / unification on twitter
+  * Measuring how communities fracture and merge over time on twitter
+  * Measuring content homogeneity and heterogeneity using deep learning NLP
+  * Large scale graph community detection
+  
 Skills
 ======
 * Data Science and Machine Learning
@@ -69,14 +82,7 @@ Conference Presentations
 * "Forecasting Vaccine Refusal Rates by Modeling Social Influence," IC2S2, e-Poster Session, June 2020.
 * "The empirical limits of prediction of microscopic dynamics of online conversation" IC2S2,e-Poster Session, June 2020.
   
-Teaching
-======
-* 2019-2021: Assistant Instructor for [I-453](https://soic.iupui.edu/courses/info-i453/), an ethics of technology/computing course.
-  * Helped design assignments, tests and lectures; occationally lectured; Graded coursework
-* 2016-2017: Assistant Instructor for [I-201](https://soic.iupui.edu/courses/info-i201/), a discrete math course.
-  * Managed lab sessions and taught course material; Graded coursework
-
-Other Past Projects
+Other Projects
 ======
 * Comparison of spectrogram generation methods for audio classification using CNN classifiers, 2019.
   * Used CNN classifiers (e.g.  ResNet) to classify audio spectrograms
@@ -94,21 +100,13 @@ Other Past Projects
   * Used particle image velocimetry to measure internal fluid flows of Faraday waves
   * Wrote related software tools to enable data processing
 
-
-Ongoing Research
+Teaching Experience
 ======
-* Measuring impact of twitter information campaigns
-  * Measuring similarity between tweets using deep learning NLP including transformers
-  * Measuring how users' content preferences and content creation change after exposure to information campaign content
-* COVID vaccine hesitancy
-  * Collecting social media data on covid vaccine hesitancy
-  * Intend to analyze its correlation with vaccine uptake data, when such data becomes available
-* Measuring cultural balkanization / unification on twitter
-  * Measuring how communities fracture and merge over time on twitter
-  * Measuring content homogeneity and heterogeneity using deep learning NLP
-  * Large scale graph community detection
+* 2019-2021: Assistant Instructor for [I-453](https://soic.iupui.edu/courses/info-i453/), an ethics of technology/computing course.
+  * Helped design assignments, tests and lectures; occationally lectured; Graded coursework
+* 2016-2017: Assistant Instructor for [I-201](https://soic.iupui.edu/courses/info-i201/), a discrete math course.
+  * Managed lab sessions and taught course material; Graded coursework
 
-  
   
 References
 ======
