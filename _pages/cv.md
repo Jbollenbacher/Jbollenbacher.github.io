@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics, Georgia Tech, 2016
 * M.S. in Informatics, Indiana University 2019
-* Ph.D in Informatics - Complex Systems, Indiana University, 2021 (expected)
+* Ph.D in Informatics - Complex Systems, Indiana University, 2022 (expected)
 
 Work experience
 ======
@@ -32,20 +32,20 @@ Work experience
 Skills
 ======
 * Data Science and Machine Learning
-  * Python fluency. pandas, scikit-learn, pytorch, scipy, mpi4py, etc.
+  * Python fluency. pandas, scikit-learn, pytorch, scipy, Dask, etc.
   * Classical machine learning. Clustering, classification, regression, collaborative filtering, anomaly detection, feature engineering.
-  * Deep learning. PyTorch. Structured data, audio, images. Classification, regression, etc.
+  * Deep learning. PyTorch, HuggingFace Transformers. Mainly NLP, some experience in vision.
+  * Natural Language Processing (NLP). Embeddings, classification, document similarity, keyword extraction, etc.
   * High dimensional data methods. Dimensionality reduction, manifold learning, graph embeddings, etc.
   * Network science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
   * Signal processing. Denoising, source separation.
   * Time Series. ARMAX, VAR, and related models. Machine learning based forecasts, including deep learning. 
-  * Optimization with multiple constraints
-  * Model selection and model validation
-  * Data visualization. Atlair, Seaborn, matplotlib.
-  * HPC for data science and simulation. SMP and CSP computing. HPC Python, occational C
-  * Matlab, Mathematica, R
-  * SQL, MongoDB, neo4j
+  * Model selection and model validation. Feature abalation studies.
+  * Data visualization. Seaborn, matplotlib, Atlair.
+  * High Performance Computing (HPC) for data science and simulation. MPI, Dask.
+  * Matlab, Mathematica, R. Non-expert, but some experience.
   * Unix systems, bash, etc. remote computing / cloud computing, ssh, etc.
+  * Git fluency.
   
 * Modeling and Simulation
   * Focus especially on [complex systems](https://cssociety.org/about-us/what-are-cs) and network systems, e.g. social systems, ecological systems, economic networks.
