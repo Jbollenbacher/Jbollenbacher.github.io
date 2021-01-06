@@ -78,12 +78,12 @@ Teaching
 
 Other Projects
 ======
-* Comparison of spectrogram generation methods for audio classification using CNN classifiers, 2019
+* Comparison of spectrogram generation methods for audio classification using CNN classifiers, 2019.
   * Used CNN classifiers (e.g.  ResNet) to classify audio spectrograms
   * Generated and compared audio spectrograms
-* Forecasting Yellowstone Visitor Traffic, 2019
+* Forecasting Yellowstone Visitor Traffic, 2019.
   * Used ARMAX-like methods to forecast Yellowstone National Park visitor traffic
-Performed ablation study on rich feature set
+  * Performed ablation study on rich feature set
 * Predicting Academic Citations with Collaborative Filtering, 2018.
   * Used collaborative filtering methods to forecast academic citations
 * Radon Decay Chain, 2015.
