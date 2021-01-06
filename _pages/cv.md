@@ -72,9 +72,9 @@ Conference Presentations
 Teaching
 ======
 * 2019-2021: Assistant Instructor for [I-453](https://soic.iupui.edu/courses/info-i453/), an ethics of technology/computing course.
-  * Graded, helped design assignments and tests, occationally lectured.
+  * Helped design assignments, tests and lectures; occationally lectured; Graded coursework
 * 2016-2017: Assistant Instructor for [I-201](https://soic.iupui.edu/courses/info-i201/), a discrete math course.
-  * Graded, managed lab sessions and taught course material.
+  * Managed lab sessions and taught course material; Graded coursework
 
 Other Projects
 ======
