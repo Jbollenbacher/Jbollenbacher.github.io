@@ -32,8 +32,9 @@ Work experience
 Ongoing Research
 ======
 * Measuring impact of twitter information campaigns
-  * Measuring similarity between tweets using deep learning NLP including transformers
   * Measuring how users' content preferences and content creation change after exposure to information campaign content
+  * Measuring similarity between tweets using deep learning NLP including transformers
+  * Processing 30+TB json.gz dataset of twitter likes
 * COVID vaccine hesitancy
   * Collecting social media data on covid vaccine hesitancy
   * Intend to analyze its correlation with vaccine uptake data, when such data becomes available
