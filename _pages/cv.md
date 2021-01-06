@@ -71,8 +71,8 @@ Conference Presentations
   
 Teaching
 ======
-* 2019-2021: [I-453](https://soic.iupui.edu/courses/info-i453/), an ethics of technology/computing course
-* 2016-2017: [I-201](https://soic.iupui.edu/courses/info-i201/), a discrete math course
+* 2019-2021: Teaching Assistant for [I-453](https://soic.iupui.edu/courses/info-i453/), an ethics of technology/computing course
+* 2016-2017: Teaching Assistant for [I-201](https://soic.iupui.edu/courses/info-i201/), a discrete math course
 
 Other Projects
 ======
