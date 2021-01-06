@@ -42,7 +42,7 @@ Skills
   * Time Series. ARMAX, VAR, and related models. 
   * Model selection and model validation, Feature abalation studies.
   * Data visualization. Seaborn, matplotlib, Atlair.
-  * High Performance Computing (HPC) for data science and simulation. MPI, Dask.
+  * High Performance Computing (HPC) for data science and simulation. MPI, Dask, TORQUE/PBS clusters.
   * Matlab, Mathematica, R. Non-expert, but some experience.
   * Unix systems, bash, etc. remote computing / cloud computing, ssh, etc.
   * Git fluency.
