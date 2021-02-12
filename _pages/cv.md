@@ -33,15 +33,11 @@ Ongoing Research
 ======
 * Measuring impact of twitter information campaigns
   * Measuring how users' content preferences and content creation change after exposure to information campaign content
-  * Measuring similarity between tweets using deep learning NLP including transformers
+  * Measuring topical attention and targeted sentiment using deep learning NLP including transformers
   * Processing 30+TB json.gz dataset of twitter likes
 * COVID vaccine hesitancy
   * Collecting social media data on covid vaccine hesitancy
-  * Intend to analyze its correlation with vaccine uptake data, when such data becomes available
-* Measuring cultural balkanization / unification on twitter
-  * Measuring how communities fracture and merge over time on twitter
-  * Measuring content homogeneity and heterogeneity using deep learning NLP
-  * Large scale graph community detection
+  * Analyzing its relationship to public health behaviors and outcomes
   
 Skills
 ======
