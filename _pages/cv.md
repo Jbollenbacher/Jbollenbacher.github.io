@@ -45,7 +45,7 @@ Skills
   * Python fluency. pandas, scikit-learn, pytorch, scipy, Dask, etc.
   * Classical machine learning. Clustering, classification, regression, collaborative filtering, anomaly detection, feature engineering.
   * Deep learning. PyTorch, HuggingFace Transformers. Mainly NLP, some experience in vision.
-  * Natural Language Processing (NLP). Embeddings, classification, document similarity, keyword extraction, etc.
+  * Natural Language Processing (NLP). NER and keyword extraction, ABSA, document/sentence embeddings, classification, etc.
   * High dimensional data methods. Dimensionality reduction, manifold learning, graph embeddings, etc.
   * Network science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
   * Signal processing. Denoising, source separation.
@@ -54,7 +54,7 @@ Skills
   * Data visualization. Seaborn, matplotlib, Atlair.
   * High Performance Computing (HPC) for data science and simulation. MPI, Dask, TORQUE/PBS clusters.
   * Matlab, Mathematica, R. Non-expert, but some experience.
-  * Unix systems, bash, etc. remote computing / cloud computing, ssh, etc.
+  * Unix systems, bash, etc. 
   * Git fluency.
   
 * Modeling and Simulation
