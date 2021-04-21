@@ -50,9 +50,10 @@ Skills
   * Network science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
   * Signal processing. Denoising, source separation.
   * Time Series. ARMAX, VAR, and related models. 
+  * Point process models, e.g. Hawkes models.
   * Model selection and model validation, Feature abalation studies.
   * Data visualization. Seaborn, matplotlib, Atlair.
-  * High Performance Computing (HPC) for data science and simulation. MPI, Dask, TORQUE/PBS clusters.
+  * High Performance Computing (HPC) for data science and simulation. MPI, Dask, TORQUE/PBS/SLURM clusters.
   * Matlab, Mathematica, R. Non-expert, but some experience.
   * Unix systems, bash, etc. 
   * Git fluency.
