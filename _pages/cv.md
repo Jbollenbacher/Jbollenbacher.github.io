@@ -45,7 +45,7 @@ Skills
   * Python fluency. pandas, scikit-learn, pytorch, scipy, Dask, etc.
   * Classical machine learning. Clustering, classification, regression, collaborative filtering, anomaly detection, feature engineering.
   * Deep learning. PyTorch, HuggingFace Transformers. Mainly NLP, some experience in vision.
-  * Natural Language Processing (NLP). NER and keyword extraction, ABSA, document/sentence embeddings, classification, etc.
+  * Natural Language Processing (NLP). Text cleaning, NER and keyword extraction, targeted sentiment analysis, document classification and clustering, etc.
   * High dimensional data methods. Dimensionality reduction, manifold learning, graph embeddings, etc.
   * Network science. Community detection, diffusion modeling, robustness analysis, graph characterization, etc.
   * Signal processing. Denoising, source separation.
