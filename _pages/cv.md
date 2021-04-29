@@ -35,8 +35,8 @@ Ongoing Research
   * Measuring changes in topical attention (using spacy models)
   * Measuring changes in sentiment toward topics (using transformer models)
   * Measuring changes in beliefs about topics (using relation extraction and transformer models)
-  * Measuring memetic impacts of interacting with suspicious content (e.g. bots, misinformation, coordinated campaignts
-  * Processing ~20+TB json.gz dataset of twitter likes
+  * Measuring memetic impacts of interacting with suspicious content (e.g. bots, misinformation, coordinated campaigns)
+  * Processing a ~20TB json.gz dataset of twitter data
 * COVID vaccine hesitancy
   * Collecting social media data on covid vaccine hesitancy
   * Analyzing its relationship to public health behaviors and outcomes
