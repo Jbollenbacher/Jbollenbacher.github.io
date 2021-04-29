@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2019-present, 2016-2017: Assistant Instructor
-  * Indiana University. See Teaching Experience
+  * Indiana University. See Teaching Experience section below
   
 * 2017-2019: Research Assistant
   * Indiana University
