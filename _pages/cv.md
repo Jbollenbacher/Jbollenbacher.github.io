@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2021-present: Data Science Consultant
+* 2021-present: Data Scientist
   * GeniusMesh
   * Duties include developing models of possible future career trajectories for EMBA job seekers, and forecasts of companies' future hiring patterns. 
 
