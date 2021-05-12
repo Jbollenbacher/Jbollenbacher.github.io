@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* 2021-present: Data Scientist Consultant
+  * GeniusMesh
+  * Duties include developing models of possibly future career trajectories for EMBA job seekers, and forecasts of companies' future hiring patterns. 
+
 * 2019-present, 2016-2017: Assistant Instructor
   * Indiana University. See Teaching Experience section below
   
